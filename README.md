@@ -1,6 +1,7 @@
 # Compress_Decompress
 ## The objective of the project is to compress and decompress files without losing data 
 This project Compression_Decompression is developed using java swing technology , java swing is a light weight desktop application provided by java
+Since this project is developed using java swing technology, it can be run only using jdk
 
 ### Steps to download and run this project
 1. Install jdk on your local machine, set the environment variables-->path of your installed jdk
