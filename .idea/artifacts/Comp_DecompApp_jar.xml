@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Comp_DecompApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Comp_DecompApp_jar</output-path>
+    <root id="archive" name="Compression_Decompression.jar">
+      <element id="module-output" name="Compression_Decompression" />
+    </root>
+  </artifact>
+</component>
