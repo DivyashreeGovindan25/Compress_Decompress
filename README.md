@@ -4,7 +4,7 @@ This project Compression_Decompression is developed using java swing technology 
 
 ### Steps to download and run this project
 1. Install jdk on your local machine, set the environment variables-->path of your installed jdk
-2. From the compression_Decompression(Github) repository download the project as zip from the '<code>' option
+2. From the compression_Decompression(Github) repository download the project as zip from the 'code' option
 3. Extract the downloed zip in the current drive of where your jdk is installed
 4. Open the project Compression_Decompression-main-->out-->artifacts-->Comp_DecompApp_jar-->in here you'll find the jar file named "Compression_Decompression"
 5. Double click to run it/in the path type cmd, then execute 'java -jar "Compression_Decompression.jar" '
